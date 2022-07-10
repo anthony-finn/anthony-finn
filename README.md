@@ -1,5 +1,3 @@
-![](https://cdn.discordapp.com/attachments/995548321592660079/995556060469407744/Bi9gfmV-computer-science-wallpaper.jpg)
-
 ## 🚀 About Me
 I'm currently a computer science student at California State University, San Marcos. I started my journey in computer science through Roblox and game development. I am always looking for opportunities to gain experience and improve my skillset. 
 
