@@ -1,5 +1,5 @@
 # 🚀 About Me
-I started my journey in computer science through Roblox and game development in middle school. I'm currently a computer science student at California State University, San Marcos. I fell in love with problem solving. I am always looking for opportunities to gain experience and improve my skillset. 
+I started my journey in computer science through Roblox and game development in middle school. I fell in love with problem solving. I'm currently a computer science student at California State University, San Marcos. I am always looking for opportunities to gain experience and improve my skillset. 
 
 
 ## 🛠 Programming Languages
