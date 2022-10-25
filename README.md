@@ -1,10 +1,9 @@
-# 🚀 About Me
+# 🛠 About Me
 My name is Anthony Finn, and I'm currently a junior at California State University, San Marcos. The first programming language that I learned was Lua in middle school. I started because I fell in love with creating video games. It was difficult learning to code when I first began. I often had to look at online resources and read the source code of other's programs to begin to understand the basics.
 
 Learning how to create video games when I was younger helped me find my passion of solve problems, especially using computers. I love the idea that I can create nearly anything with computers. I am always looking to expand my skillset and learn new things.
 
-
-## 🛠 Programming Languages
+## 📝 Programming Languages
 <p align="left"> 
   <!--- C --->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
