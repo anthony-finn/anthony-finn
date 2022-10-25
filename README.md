@@ -3,7 +3,7 @@ My name is Anthony Finn, and I'm currently a junior at California State Universi
 
 Learning how to create video games when I was younger helped me find my passion of solve problems, especially using computers. I love the idea that I can create nearly anything with computers. I am always looking to expand my skillset and learn new things.
 
-## 📝 Programming Languages
+## ⌨️ Programming Languages
 <p align="left"> 
   <!--- C --->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
