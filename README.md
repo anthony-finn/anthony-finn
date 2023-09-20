@@ -1,7 +1,7 @@
 # 🛠 About Me
-Hi, my name is [Anthony Finn](anthonyfinn.xyz) and I am a junior at California State University, San Marcos. The first programming language that I learned was Lua in middle school. I was inspired to start learning programming because I was fascinated by the idea of creating video games. At first, it was challenging for me to learn how to code. I had to rely on online resources and study the source code of other programs to grasp the fundamentals.
+Hi, my name is [Anthony Finn](anthonyfinn.xyz) and I am a junior at California State University, San Marcos. The first programming language that I learned was Lua in middle school. I was inspired to start learning programming because I was fascinated by the idea of creating video games.
 
-Learning how to create video games when I was younger helped me find my passion of solve problems, especially using computers. I love the idea that I can create nearly anything with computers. I am always looking to expand my skillset and learn new things.
+Learning how to create video games when I was younger helped me find my passion of solve problems. I am always looking to expand my skillset and learn new things.
 
 ## ⌨️ Programming Languages
 <p align="left"> 
